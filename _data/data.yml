@@ -8,15 +8,14 @@ sidebar:
 
     # Profile information
     name: Changhwan Joe
-    tagline: PythonDeveloper
+    tagline: Python Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: chjoe01@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    phone: 010 345 6789
+    website: https://chaloalto.tistory.com/ #do not add http://
+    linkedin: 
     github: changhwanjoe
     telegram: # add your nickname without '@' sign
     gitlab:
