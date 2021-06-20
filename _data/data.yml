@@ -49,7 +49,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Engineering (Department of Electrical and Computer Engineering)
+    - degree: MSc in Computer Engineering #(Department of Electrical and Computer Engineering)
       university: Korea University 
       time: 2018 - 2021
       details: |
