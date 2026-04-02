@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CV</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <main class="container" id="cv-root">
+    <header class="header" id="header"></header>
+
+    <section class="section" id="summary-section">
+      <h2>Summary</h2>
+      <p id="summary"></p>
+    </section>
+
+    <section class="section" id="skills-section">
+      <h2>Skills</h2>
+      <ul class="skills-list" id="skills-list"></ul>
+    </section>
+
+    <section class="section" id="experience-section">
+      <h2>Experience</h2>
+      <div id="experience-list"></div>
+    </section>
+
+    <section class="section" id="education-section">
+      <h2>Education</h2>
+      <div id="education-list"></div>
+    </section>
+  </main>
+
+  <script type="module" src="assets/js/render-cv.js"></script>
+</body>
+</html>
